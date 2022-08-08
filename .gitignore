@@ -1,0 +1,13 @@
+.venv/
+envs/
+
+.idea/
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+__pycache__/
+**/__pycache__/
+
+template/notebooks/**/sample_output/**
+!**/.gitkeep
