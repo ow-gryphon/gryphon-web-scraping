@@ -3,11 +3,11 @@
     "command": "generate",
     "dependencies": ["beautifulsoup4"],
 
-    "keywords": [],
-    "methodology": ["Data Parsing"],
+    "keywords": ["web scraping", "scraping"],
+    "methodology": ["Data scraping and parsing"],
     "topic": [],
 
     "description": "A basic web scraping template made with the Beautiful Soup (beautifulsoup4) library.",
-    "author": "Vittor Faria Pereira",
-    "author_email": "vittor.pereira@oliverwyman.com"
+    "author": "Vittor Faria Pereira & Daniel Wang",
+    "author_email": "daniel.wang@oliverwyman.com"
 }
