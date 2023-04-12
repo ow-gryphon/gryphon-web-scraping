@@ -1,7 +1,7 @@
 {
     "display_name": "Web scraping",
     "command": "generate",
-    "dependencies": ["beautifulsoup4"],
+    "dependencies": ["beautifulsoup4", "pip-system-certs"],
 
     "keywords": ["web scraping", "scraping"],
     "methodology": ["Data scraping and parsing"],
