@@ -1,6 +1,7 @@
 This template provides some web-scraping capabilities:
-- [Scraping tables](https://github.com/ow-gryphon/gryphon-web-scraping/blob/master/template/notebooks/web_scraping/%5Brename%5D%20Reading%20tabular%20data.ipynb)
-- [Simple scraping methods](https://github.com/ow-gryphon/gryphon-web-scraping/blob/master/template/notebooks/web_scraping/%5Brename%5D%20Simple%20scraping.ipynb)
+- [Scraping HTML using Beautiful Soup and Pandas](https://github.com/ow-gryphon/gryphon-web-scraping/blob/master/template/notebooks/web_scraping/%5Btemplate%5D%20HTML%20Scraping%20Using%20Beautiful%20Soup%20and%20Pandas.ipynb)
+- [Using the requests library to interface with APIs](https://github.com/ow-gryphon/gryphon-web-scraping/blob/master/template/notebooks/web_scraping/%5Btemplate%5D%20HTTP%20requests%20to%20interface%20with%20REST%20APIs.ipynb)
+- [Webscraping using Selenium](https://github.com/ow-gryphon/gryphon-web-scraping/blob/master/template/notebooks/web_scraping/%5Btemplate%5D%20Webscraping%20using%20Selenium.ipynb)
 
 
 Python requirement versions used when template was updated (20230626):
