@@ -1,0 +1,11 @@
+These examples were made in 2018, and the Selenium methods/functions have changed slightly since then, so the code is currently broken (unless an old version of Selenium is used).
+If you attempt to use this code and get errors, it should be easy to google them to find the new syntax
+
+These were the version numbers for these examples:
+numpy==1.15.1
+pandas==0.23.4
+python-dateutil==2.7.3
+pytz==2018.5
+selenium==3.14.0
+six==1.11.0
+urllib3==1.23
