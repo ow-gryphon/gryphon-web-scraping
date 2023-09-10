@@ -12,7 +12,7 @@ with open('metadata.json') as fr:
 
 setuptools.setup(
     name="gryphon-web-scraping",  # Name of the repository
-    version="0.1.2",
+    version="0.2.0",
     author=metadata.get("author", ""),
     author_email=metadata.get("author_email", ""),
     description=metadata.get("description", ""),
